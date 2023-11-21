@@ -1,0 +1,34 @@
+
+.logo {
+    width: 200px;
+    pointer-events: none;
+}
+
+.navbar-brand {
+  margin-top: -10px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.navbar{
+  border-bottom: 1px solid rgb(236, 233, 233);
+  z-index: 100;
+  background-color: red;
+  background-color: rgb(255 255 255 / 0.3);
+  backdrop-filter: blur(10px) ;
+}
+
+.btn-danger{
+  margin: 10px;
+}
+
+.btn-success{
+  margin: 10px;
+}
+
+.img_prof{
+  max-width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+

@@ -1,0 +1,22 @@
+.Regist{
+    width: 100%;
+    height: 100%;
+    z-index: 1002;
+    top: 0;
+    left: 0;
+
+    display: flex;
+  justify-content: center; /* Horizontal centering */
+
+}
+
+.Regist_logo{
+    margin-left: 35%;
+    width: 30%;
+    margin-top: -20%;
+    margin-bottom: 0%;
+}
+
+.form_regist{
+    margin: 3% !important;
+}

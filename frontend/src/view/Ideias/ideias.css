@@ -1,0 +1,23 @@
+.tipo_ideia{
+    margin: 0;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-weight: 100;
+}
+
+.card_ideia:hover{
+    cursor: default;
+}
+.sem_ideias{
+    margin-top: 200px;
+    height: 300px;
+    text-align: center;
+}
+
+.ideias{
+    z-index: 0;
+    height: 50%;
+    border-radius: 5px;
+    margin-left: 100px;
+}

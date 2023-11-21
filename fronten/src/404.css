@@ -1,0 +1,22 @@
+.notfound{
+    text-align: center;
+    vertical-align: middle;
+    z-index: 100;
+}
+
+.error{
+    font-size: 500px;
+    text-shadow: 1px 1px 0px gray, 2px 2px 0px gray, 3px 3px 0px gray;
+}
+
+.error_msg{
+    margin-bottom: 150px;
+}
+
+.quatros{
+    color: #37649F;
+}
+
+.zero{
+    color: #18BBE4;
+}

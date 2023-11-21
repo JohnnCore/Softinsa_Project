@@ -1,0 +1,27 @@
+@import "~react-vis/dist/style";
+
+.estado_op{
+    position: absolute;
+    /* top: -50%; */
+    /* left: 150%; */
+    margin-top: -10%;
+    margin-left: 45%;
+    z-index: 1000;
+    border-radius: 5px;
+    border: 1px #B1BAC5 solid;
+    background-color: white;
+    min-width: 100px;
+    text-align: center;
+    color: black;
+}
+
+.grafico{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.grafic{
+    width: 100%;
+}
+

@@ -1,0 +1,18 @@
+.table
+{
+    width: 85%;
+}
+
+input
+{
+    width: 20px;
+}
+
+textarea {
+    resize: none;
+}
+  
+.tabela-centro
+{
+    margin-left: 10%;
+}
